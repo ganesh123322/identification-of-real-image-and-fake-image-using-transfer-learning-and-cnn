@@ -63,6 +63,11 @@ DenseNet121	Transfer Learning	224×224	0.998
 EfficientNetB0	Transfer Learning	240×240	0.995
 MobileNet	Transfer Learning	224×224	0.992
 
+https://drive.google.com/drive/folders/1fVFx2aeISg0OYPv-n4Q0Q8XtXYb0pslZ?usp=drive_link 
+
+
+link is given there to donload models form the drive.
+
 DenseNet121 achieved the highest validation accuracy of 99.8%.
 These values are based on experimental results from the proposed study.
 
@@ -143,8 +148,9 @@ Optimization for mobile/edge deployment
 Based on the IBM academic study:
 
 “Real vs AI-Generated Image Identification with Enhanced Resolution and Multi-Model Deep Learning Approach”
-Kalasalingam Academy of Research and Education, India (2025).
+
 
 👨‍💻 Author
 
 Ganesh D.
+  
